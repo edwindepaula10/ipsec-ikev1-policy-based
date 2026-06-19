@@ -1,3 +1,5 @@
+enable
+configure terminal
 hostname R2
 interface Ethernet0/0
  ip address 10.24.15.6 255.255.255.252
