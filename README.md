@@ -3,10 +3,17 @@
 **Estudiante:** Edwin De Paula  
 **Matricula:** 2024-2415  
 **Institución:** Instituto Tecnológico de las Américas (ITLA)  
-**Asignatura:** Seguridad en Redes  
-**Video YouTube:** https://youtu.be/Es_zn1c0BWE
+**Asignatura:** Seguridad en Redes
+
 ---
 
+## Video
+
+| Recurso | URL |
+|---|---|
+| Video YouTube | https://youtu.be/Es_zn1c0BWE |
+
+---
 ## Objetivo
 
 Implementar una VPN Site-to-Site basada en políticas utilizando IPSec con IKEv1, estableciendo un canal cifrado entre dos sitios remotos a través de un router ISP, garantizando la confidencialidad, integridad y autenticación del tráfico entre las redes LAN de cada sitio.
