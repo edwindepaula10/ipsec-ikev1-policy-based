@@ -3,7 +3,7 @@
 **Estudiante:** Edwin De Paula  
 **Matricula:** 2024-2415  
 **Institución:** Instituto Tecnológico de las Américas (ITLA)  
-**Asignatura:** Seguridad en Redes
+**Asignatura:** Seguridad en Redes  
 **Video YouTube:** https://youtu.be/Es_zn1c0BWE
 ---
 
